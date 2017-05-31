@@ -16,7 +16,7 @@ The second thing we'll mention at the start is that, in contrast to what frequen
 
 The reason we bring this up is so that readers will understand that the concepts of sex and gender that we will discuss shortly are not actually a starting point for theory, but are in fact a result of a theoretical effort that has already been conducted internally. Part of this argument is elaborated here. But many of the details of this theoretical labor have yet to be really systematized and put into writing (although we hope this will be done at some point in the future). In the interim, we believe it to still be useful to lay out our definitions, so that readers will know basically what we mean in our writings about wimmin's liberation. But readers should be aware that these definitions are indeed a result, and absent some of their theoretical development, readers may find some justification lacking or the discussion to be unsatisfactory in a number of ways.
 
-What is sex?
+## What is sex?
 
 For the past few decades, popular trends in feminism have been pushing the category of sex firmly into the background. In contrast, we hold that sex---as a first approximation, the social division of bodies into two categories based on the (perceived) presence of certain reproductive organs---is in fact the most fundamental process of patriarchy. It will hopefully become clearer later on why we term sex a "process" (and why we say it is social). In the meantime, we note that social control of female bodies remains the most important component of wimmin's oppression (whether through restricting access to birth control, relegating wimmin to childbirth and housework, the use and abuse of wimmin's bodies through pornography and prostitution, etc.). So, in spite of numerous attempts to downplay its significance, sex still matters to wimmin's oppression; the female status is the foundational aspect of wimmin's existence.
 
@@ -62,7 +62,7 @@ In short, we define sex as the social process through which bodies are forcibly 
 
 This conclusion allows us to re-affirm some of what was landed upon in past feminisms, i.e. that the very division of bodies into sexes has a great deal to do with wimmin's oppression, while also realizing that this division is hardly natural and is in fact a product of social relations which are possible to change. As Catharine MacKinnon once put it, sexual difference is a function of sexual dominance, and both are central to wimmin's subordinate status. If we want to be able to do something about wimmin's oppression, it makes sense for us to re-focus on sex in our analysis, while also identifying the social and historically contingent roots of the sexual division itself. 
 
-What is gender?
+## What is gender?
 
 Typically, the way the term "gender" gets used in popular discourse dangerously conflates three related but distinct things: gender identity, the system of material practices that constitute masculinity and femininity, and wimmin and men as positions within a patriarchal structure. We believe that these three things are related but are nonetheless distinct.
 
