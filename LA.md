@@ -20,7 +20,7 @@ Back in 1992, the MIM demonstrated that *even if* we assume that Third World eco
 
 But 1992 was a long time ago, so let's update the MIM's original analysis with more recent figures.
 
-Let's consider a scenario: suppose the U.$. was to eliminate all surplus value that the Amerikan nation produces, so that Amerikan workers have a rate of surplus value of 0%. This means that if an Amerikan worker were to produce 1 hour of value, ey would be paid a wage that would allow them to command 1 hour of value in return. And let's suppose that instead of exploiting Amerikan workers, the U.$. bourgeoisie wanted to rely entirely on lower-wage workers in the U.$. internal semi-colonies as the source of their profits. What would this scenario look like? How much profit could the capitalist make?
+Let's consider a scenario: suppose the U.$. was to eliminate all surplus value that the Amerikan nation produces, so that Amerikan workers have a rate of surplus value of 0%. This means that if an Amerikan worker were to produce 1 hour of value, ey would be paid a wage that would allow em to command 1 hour of value in return. And let's suppose that instead of exploiting Amerikan workers, the U.$. bourgeoisie wanted to rely entirely on lower-wage workers in the U.$. internal semi-colonies as the source of their profits. What would this scenario look like? How much profit could the capitalist make?
 
 So, reminding ourselves that we are assuming that the U.$. economy is totally cut off from the rest of the world, in our model U.$. GDP represents the total price of goods and services produced in the U.$. and also the total value of those goods and services (in the aggregate, total value = total price according to Marxist theory). In 2010, the most recent census year at the time of writing, U.$. GDP was $15.23 trillion. According to the U.$. census, in that same year, "Blacks," "Hispanics," and indigenous people (the closest measures for oppressed nations we could find in the census) accounted for about 30% of the population. So, assuming that people in oppressed nations within the U.$. perform about 30% of the labor in the U.$., 30% of the total value produced in the U.$., or 30% of U.$. GDP, was produced by oppressed nation workers.
 
@@ -28,11 +28,11 @@ So, reminding ourselves that we are assuming that the U.$. economy is totally cu
 
 So in this scenario based on real-world data, oppressed nation workers produced $4.57 trillion in value. How much were they paid in return? Recall that we are considering what things would look like if Amerikan workers were paid exactly what they produced. Ths means that if oppressed nation workers were paid the same as Amerikan workers, they would have been paid $4.57 trillion in 2010. But in reality, in 2010 oppressed nation workers in the aggregate were only paid about 56% of what Amerikan workers made. So,
 
-**Total wages of oppressed nation workers** = 0.56 x $4.57 trillion = $2.56 trillion.
+**Total wages of oppressed nation workers** = 56% x $4.57 trillion = **$2.56 trillion.**
 
 If we take the difference between what oppressed nation workers produced and what they were actually paid, then we get how much profit the capitalists made from oppressed nation workers.
 
-**Profit from oppressed nation workers** = $4.57 trillion - $2.56 trillion = $2.01 trillion.
+**Profit from oppressed nation workers** = $4.57 trillion - $2.56 trillion = **$2.01 trillion.**
 
 So, even if we assume that Third World economies contribute nothing to the U.$., in 2010, if Amerikan workers produced no surplus value at all, the amount of profit that capitalists would have received from discrimination alone would have been $2.01 trillion. Since the actual after tax corporate profit in 2010 was about $1.5 trillion, we can safely say that yes, *even if* the U.$. economy is totally isolated from the rest of the world, **internal national oppression still more than accounts for all of the profit realized in the U.$.**, meaning Amerikan workers can't really be producing surplus value in any significant quantity.
 
@@ -57,3 +57,12 @@ These calculations are of course all very preliminary. Zak Cope has done some mo
 The point though is not to get an exact figure, but to show that no matter how you slice it, it is very unlikely that workers in the First World produce much surplus value. Among those workers in imperialist countries who may technically produce surplus value, most still receive payment that is over and above what would be possible without the extreme exploitation of Third World labor. 
 
 This is not all there is to the labor aristocracy, but the basic economic foundation of the labor aristocracy is that the vast majority of people in First World countries are receiving surplus value extracted from Third World workers, and this is the most critical factor in the production of a community of interests between workers in the First World and "their own" bourgeoisie.
+
+
+
+  
+
+
+
+
+
