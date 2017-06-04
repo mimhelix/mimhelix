@@ -24,11 +24,11 @@ But 1992 was a long time ago, so let's update the MIM's original analysis with m
 
 Let's consider a scenario: suppose the U.$. were to eliminate all surplus value that the Amerikan nation produces, so that Amerikan workers have a rate of surplus value of 0%. This means that if an Amerikan worker were to produce 1 hour of value, ey would be paid a wage that would allow em to command 1 hour of value in return. And let's suppose that instead of exploiting Amerikan workers, the U.$. bourgeoisie wanted to rely entirely on lower-wage workers in the U.$. internal semi-colonies as the source of their profits. What would this scenario look like? How much profit could the capitalist make?
 
-So, reminding ourselves that we are assuming that the U.$. economy is totally cut off from the rest of the world, in our model U.$. GDP represents the total price of goods and services produced in the U.$. and also the total value of those goods and services (in the aggregate, total value = total price according to Marxist theory). In 2010, the most recent census year at the time of writing, U.$. GDP was $15.23 trillion. And according to the U.$. census, in that same year, "Blacks," "Hispanics," and indigenous people (the closest measures for oppressed nations we could find in the census) accounted for about 30% of the population. So, assuming that people in oppressed nations within the U.$. perform about 30% of the labor in the U.$., 30% of the total value produced in the U.$., or 30% of U.$. GDP in this analysis, should have been produced by oppressed nation workers.
+So, reminding ourselves that we are assuming that the U.$. economy is totally cut off from the rest of the world, in our model U.$. GDP represents the total price of goods and services produced in the U.$. and also the total value of those goods and services (in the aggregate, total value = total price according to Marxist theory). In 2010, the most recent census year at the time of writing, U.$. GDP was $15.23 trillion. And according to the U.$. census, in that same year, "Blacks," "Hispanics," and indigenous people (the closest measures for oppressed nations we could find in the census) accounted for about 30% of the population.<sup><a name="note1">[1](#ref1)</a></sup> So, assuming that people in oppressed nations within the U.$. perform about 30% of the labor in the U.$., 30% of the total value produced in the U.$., or 30% of U.$. GDP in this analysis, should have been produced by oppressed nation workers.
 
 **Total value produced by oppressed nation workers** = 30% x $15.23 trillion = **$4.57 trillion.**
 
-So in this scenario based on real-world data, oppressed nation workers produced $4.57 trillion in value. How much were they paid in return? Recall that we are considering what things would look like if Amerikan workers were paid exactly what they produced. This means that if oppressed nation workers were paid the same as Amerikan workers, they would have been paid $4.57 trillion in 2010, the same as what they produced. But in reality, in 2010 oppressed nation workers in the aggregate were only paid about 56% of what Amerikan workers made. So,
+So in this scenario based on real-world data, oppressed nation workers produced $4.57 trillion in value. How much were they paid in return? Recall that we are considering what things would look like if Amerikan workers were paid exactly what they produced. This means that if oppressed nation workers were paid the same as Amerikan workers, they would have been paid $4.57 trillion in 2010, the same as what they produced. But in reality, in 2010 oppressed nation workers in the aggregate were only paid about 56% of what Amerikan workers made.<sup><a name="note2">[2](#ref2)</a></sup> So,
 
 **Total wages of oppressed nation workers** = 56% x $4.57 trillion = **$2.56 trillion.**
 
@@ -38,7 +38,7 @@ If we take the difference between what oppressed nation workers produced and wha
 
 So, even if we assume that Third World economies contribute nothing to the U.$., if Amerikan workers produced no surplus value at all, the amount of profit that capitalists would have received from discrimination alone in 2010 would have been $2.01 trillion. In other words, if the U.$. *only* exploited labor in the internal semi-colonies, they still would have been able to make $2.01 trillion in profit. Since the actual U.$. after tax corporate profit in 2010 was about $1.5 trillion, we can safely say that yes, *even if* the U.$. economy is totally isolated from the rest of the world, **internal national oppression still more than accounts for all of the profit realized in the U.$.** This means Amerikan workers can't really be producing surplus value in any significant quantity.
 
-Of course, the U.$ economy is not isolated from the rest of the world, and U.$. GDP is *not* a good measure of the amount of value *produced* in the United $tates. In reality, GDP includes a lot of value extracted from Third World workers and realized in the U.$. But the point of the above analysis is to show that, even granting one of the most stringent assumptions of chauvinist pseudo-Marxists, that everything in U.$. GDP is produced internally, the majority of the U.$. population can't be producing surplus value.
+Of course, the U.$ economy is not isolated from the rest of the world, and U.$. GDP is *not* a good measure of the amount of value *produced* in the United $tates. In reality, GDP includes a lot of value extracted from Third World workers and realized in the U.$.<sup><a name="note3">[3](#ref3)</a></sup> But the point of the above analysis is to show that, even granting one of the most stringent assumptions of chauvinist pseudo-Marxists, that everything in U.$. GDP is produced internally, the majority of the U.$. population can't be producing surplus value.
 
 How does the picture change when we acknowledge that Third World labor contributes substantially to imperialist economies, and how do things look in non-U.$. imperialist countries?
 
@@ -46,7 +46,7 @@ When we are looking at the world economy and the economic relations between Firs
 
 Gross world product is a rough measure of the total price and in turn the total value of commodities produced in the world economy. To be more precise, it is a dollar figure that, in Marxist terms, roughly represents the amount of money that circulated all of the world's value in the year. If we divide this figure by the total amount of labor-time performed in the world, we get a measure of the amount of money that circulates a set amount of value, measured in labor-time. This is also an expression of the value of money, as it gives us an estimate of the amount of value money is able to circulate on average over the course of a year.
 
-In 2015, gross world product was about $78 trillion. There were about 3.5 billion workers in the world who collectively performed 3.5 billion labor-years of work (1 labor-year per worker in the aggregate) to produce that value. This means that, on average, over the course of the year, it took about $22,000 to circulate 1 labor-year of value ($78 trillion / 3.5 billion). Therefore, as ballpark estimate, anyone who makes more than about $22,000 a year is able to command more labor than they themselves expend. With a year's worth of wages or salaries, these workers are able to purchase commodities that in total took more than a year to produce. These workers do not produce surplus value and are actually on the whole *recipients* of surplus value.
+In 2015, gross world product was about $78 trillion for the year. There were about 3.5 billion workers in the world who collectively performed 3.5 billion labor-years of work to produce that value. This means that, on average, over the course of the year, it took about $22,000 to circulate 1 labor-year of value ($78 trillion / 3.5 billion). Therefore, as ballpark estimate, anyone who makes more than about $22,000 a year is able to command more labor than they themselves expend. With a year's worth of wages or salaries, these workers are able to purchase commodities that in total took *more than a year to produce*. These workers do not produce surplus value and are actually on the whole *recipients* of surplus value.
 
 Since the majority of people in imperialist countries make more than $22,000 a year, we feel pretty confident in saying that the majority of the population in imperialist countries does not produce surplus value. Notably, this includes many people in internal semi-colonies and national minorities within the First World. We of course recognize that oppressed nation people within the First World are more brutally oppressed than white workers, and they may even be producing surplus value in some pockets (especially undocumented workers). However, we do think it is important to acknowledge how even oppressed nation people in the First World can benefit to a degree from imperialism, e.g. through receiving wages that are partially paid for out of value produced by Third World workers. Even among oppressed nation people in the First World, their proximity to imperialism and the degree to which they benefit from imperialism can and does structure the struggles that emerge among these populations, which is an important strategic consideration.
 
@@ -84,12 +84,22 @@ To briefly sum up, our analysis is that the large majority of people in imperial
 
 ### Further reading
 
-MIM(Prisons) study pack on the labor aristocracy
+MIM(Prisons) study pack on the labor aristocracy - https://www.prisoncensorship.info/archive/study/sp248.pdf
 
-MIM Theory 1: A White Proletariat?
+MIM Theory 1: A White Proletariat? (reformatted version for ease of reading) - https://alyx.io/uploads/mim-theory/1-letter.pdf
 
-J. Sakai - Settlers: Mythology of the White Proletariat
+Imperialism and Its Class Structure in 1997 - https://www.prisoncensorship.info/archive/etext/mt/imp97/index.html
 
-H. W. Edwards - Labor Aristocracy: Mass Base of Social Democracy
+J. Sakai - Settlers: Mythology of the White Proletariat - https://www.prisoncensorship.info/archive/books/settlers.pdf
 
-Zak Cope - Divided World Divided Class
+H. W. Edwards - Labor Aristocracy: Mass Base of Social Democracy - https://www.prisoncensorship.info/archive/etext/contemp/whitemyths/edwards/index.html 
+
+Zak Cope - Divided World Divided Class - https://www.prisoncensorship.info/archive/books/Economics/DividedWorldDividedClass_ZakCope.pdf
+
+### Footnotes
+
+<a name="ref1">[1.](#note1)</a> We used 2010 U.$. Census data to calculate what percentage of the U.$. population is made up of what the census labels as "Blacks," "Hispanics," "Native Americans," and "Native Hawaiians and Pacific Islanders." These totals equal about 30% of the population according to that data.
+
+<a name="ref2">[2.](#note2)</a> Again based on 2010 U.$. data, we calculated the per capita income of "Blacks," "Hispanics," "Native Americans," and "Native Hawaiians and Pacific Islanders" taken all together. We then compared this per capita income to the per capital income of "Whites," and found that the per capita income of oppressed nation peope was 56% lower than that of Amerikans.
+
+<a name="ref3">[3.](#note3)</a> See John Smith's article in *Monthly Review*, "The GDP Illusion: Value Added vs. Value Capture." https://monthlyreview.org/2012/07/01/the-gdp-illusion/
