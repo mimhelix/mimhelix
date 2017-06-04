@@ -58,7 +58,7 @@ These calculations are of course all very preliminary. Zak Cope has done some mo
 
 The point though is not to get an exact figure, but to show that no matter how you slice it, it is very unlikely that workers in the First World produce much surplus value. Among those workers in imperialist countries who may technically produce surplus value, most still receive payment that is over and above what would be possible without the extreme exploitation of Third World labor. 
 
-This is not all there is to the labor aristocracy, but the basic economic foundation of the labor aristocracy is that the vast majority of people in First World countries are receiving surplus value extracted from Third World workers. This allows First World workers to attain a living standard and access to resources which would be impossible within the context of capitalism without imperialism, which helps produce a community of interests between workers in the First World and "their own" bourgeoisie.
+This is not all there is to the labor aristocracy, but the basic economic foundation of the labor aristocracy is that the vast majority of people in First World countries are receiving surplus value extracted from Third World workers. This allows First World workers to attain a living standard and access to resources which would be impossible without imperialism, which helps produce a community of interests between workers in the First World and "their own" bourgeoisie.
 
 ## Political basis of the labor aristocracy
 
