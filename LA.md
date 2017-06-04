@@ -91,3 +91,5 @@ MIM Theory 1: A White Proletariat?
 J. Sakai - Settlers: Mythology of the White Proletariat
 
 H. W. Edwards - Labor Aristocracy: Mass Base of Social Democracy
+
+Zak Cope - Divided World Divided Class
